@@ -1,2 +1,2 @@
 # aluranewsletter
-Novo projeto construído no curso sobre Tailwind na Alura
+Novo projeto construído no curso sobre Tailwindcss na Alura
